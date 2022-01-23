@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 const dbConfig = {
 	host: "l6glqt8gsx37y4hs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
 	user: "e2wk9od14q5ipj52",
-	password: "kimb1qjf7g6zzv2",
+	password: "gkimb1qjf7g6zzv2",
 	database: "hub2l2jklyjhm5eu",
 	multipleStatements: false,
 	reconnect: true
